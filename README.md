@@ -1,4 +1,4 @@
-**🎓Welcome to Thema Pterodactyl!**
+**🎓Welcome to Thema & Add-on Pterodactyl!**
 
 ---
 
