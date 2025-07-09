@@ -1,8 +1,7 @@
 **🎓Welcome to Thema Pterodactyl!**
 
-![BANNER](https://raw.githubusercontent.com/raolbyte/raolbyte/refs/heads/main/banner.jpg)
-
 ---
+
 <h2>THEMA</h2>
 
 <table>
